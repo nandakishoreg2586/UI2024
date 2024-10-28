@@ -1,0 +1,12 @@
+<suite name="Test Suite" verbose="1">
+    <test name="BDD tests">
+        <classes>
+            <class name="CucumberRunnerFiles.CucumberRunner"/>
+        </classes>
+    </test>
+    <test name="Rerun failed tests">
+        <classes>
+            <class name="CucumberRunnerFiles.CucumberRunnerFailedTest" />
+        </classes>
+    </test>
+</suite>

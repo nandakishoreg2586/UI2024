@@ -1,0 +1,16 @@
+<suite name="Test Suite" verbose="1" parallel="true" thread-count="4">
+	<listeners>
+        <listener class-name="utils.RetryListener" />
+    </listeners>
+    <groups>
+            <run>
+                <include name="regression"/>
+            </run>
+        </groups>
+    <test name="Login Test">
+        <classes>
+            <class name="tests.LaunchFlipkartPage"/>
+            <class name="tests.LoginAmazon"/>
+        </classes>
+    </test>
+</suite>

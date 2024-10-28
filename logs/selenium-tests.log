@@ -1,0 +1,52 @@
+2024-10-11 01:51:43 [main] INFO  tests.LaunchFlipkartPage - Launching Flipkart
+2024-10-11 01:51:43 [main] INFO  tests.LaunchFlipkartPage - On search bar clicking on Laptops
+2024-10-11 01:53:56 [main] INFO  tests.LaunchFlipkartPage - Launching Flipkart
+2024-10-11 01:53:57 [main] INFO  tests.LaunchFlipkartPage - On search bar clicking on Laptops
+2024-10-11 01:58:10 [main] INFO  tests.LaunchFlipkartPage - Launching Flipkart
+2024-10-11 01:58:11 [main] INFO  tests.LaunchFlipkartPage - On search bar clicking on Laptops
+2024-10-11 01:58:11 [main] INFO  tests.LaunchFlipkartPage - Updatind results in JIRA
+2024-10-11 02:09:46 [main] INFO  tests.LaunchFlipkartPage - Launching Flipkart
+2024-10-11 02:09:46 [main] INFO  tests.LaunchFlipkartPage - On search bar clicking on Laptops
+2024-10-11 02:09:46 [main] INFO  tests.LaunchFlipkartPage - Updatind results in JIRA
+2024-10-17 17:54:24 [main] INFO  tests.LaunchFlipkartPage - Launching Flipkart
+2024-10-17 17:54:25 [main] INFO  tests.LaunchFlipkartPage - On search bar clicking on Laptops
+2024-10-17 17:54:25 [main] INFO  tests.LaunchFlipkartPage - Updatind results in JIRA
+2024-10-17 17:58:27 [main] INFO  tests.LaunchFlipkartPage - Launching Flipkart
+2024-10-17 17:58:28 [main] INFO  tests.LaunchFlipkartPage - On search bar clicking on Laptops
+2024-10-17 17:58:28 [main] INFO  tests.LaunchFlipkartPage - Mouse Hovering on Login Icon
+2024-10-17 17:58:29 [main] INFO  tests.LaunchFlipkartPage - Clicking on Flipkart
+2024-10-17 17:58:29 [main] INFO  tests.LaunchFlipkartPage - Updatind results in JIRA
+2024-10-17 18:13:48 [main] INFO  tests.LaunchWebsites - Updatind results in JIRA
+2024-10-17 18:13:53 [main] INFO  tests.LaunchWebsites - Updatind results in JIRA
+2024-10-17 18:13:53 [main] INFO  tests.LaunchWebsites - Updatind results in JIRA
+2024-10-17 18:13:54 [main] INFO  tests.LaunchWebsites - Updatind results in JIRA
+2024-10-17 18:13:54 [main] INFO  tests.LaunchWebsites - Updatind results in JIRA
+2024-10-17 18:13:55 [main] INFO  tests.LaunchWebsites - Updatind results in JIRA
+2024-10-17 18:13:55 [main] INFO  tests.LaunchWebsites - Updatind results in JIRA
+2024-10-17 18:17:52 [TestNG-PoolService-2] INFO  tests.LaunchWebsites - Updatind results in JIRA
+2024-10-17 18:18:02 [TestNG-PoolService-1] INFO  tests.LaunchWebsites - Updatind results in JIRA
+2024-10-17 18:18:02 [TestNG-PoolService-1] INFO  tests.LaunchWebsites - Updatind results in JIRA
+2024-10-17 18:18:02 [TestNG-PoolService-1] INFO  tests.LaunchWebsites - Updatind results in JIRA
+2024-10-17 18:18:02 [TestNG-PoolService-1] INFO  tests.LaunchWebsites - Updatind results in JIRA
+2024-10-17 18:18:03 [TestNG-PoolService-2] INFO  tests.LaunchWebsites - Updatind results in JIRA
+2024-10-17 18:18:03 [TestNG-PoolService-0] INFO  tests.LaunchWebsites - Updatind results in JIRA
+2024-10-17 18:18:03 [TestNG-PoolService-2] INFO  tests.LaunchWebsites - Updatind results in JIRA
+2024-10-17 18:18:03 [TestNG-PoolService-0] INFO  tests.LaunchWebsites - Updatind results in JIRA
+2024-10-17 18:18:03 [TestNG-PoolService-2] INFO  tests.LaunchWebsites - Updatind results in JIRA
+2024-10-17 18:18:03 [TestNG-PoolService-0] INFO  tests.LaunchWebsites - Updatind results in JIRA
+2024-10-17 18:18:03 [TestNG-PoolService-0] INFO  tests.LaunchWebsites - Updatind results in JIRA
+2024-10-28 19:11:26 [TestNG-test=Login Test-1] INFO  tests.LaunchFlipkartPage - Launching Flipkart
+2024-10-28 19:11:26 [TestNG-test=Login Test-1] INFO  tests.LaunchFlipkartPage - On search bar clicking on Laptops
+2024-10-28 19:11:27 [TestNG-test=Login Test-1] INFO  tests.LaunchFlipkartPage - Mouse Hovering on Login Icon
+2024-10-28 19:11:30 [TestNG-test=Login Test-1] INFO  tests.LaunchFlipkartPage - Clicking on Flipkart
+2024-10-28 19:11:30 [TestNG-test=Login Test-1] INFO  tests.LaunchFlipkartPage - Updatind results in JIRA
+2024-10-28 19:13:18 [TestNG-test-Login Test-1] INFO  tests.LaunchFlipkartPage - Launching Flipkart
+2024-10-28 19:13:19 [TestNG-test-Login Test-1] INFO  tests.LaunchFlipkartPage - On search bar clicking on Laptops
+2024-10-28 19:13:20 [TestNG-test-Login Test-1] INFO  tests.LaunchFlipkartPage - Mouse Hovering on Login Icon
+2024-10-28 19:13:23 [TestNG-test-Login Test-1] INFO  tests.LaunchFlipkartPage - Clicking on Flipkart
+2024-10-28 19:13:23 [TestNG-test-Login Test-1] INFO  tests.LaunchFlipkartPage - Updatind results in JIRA
+2024-10-28 19:20:10 [TestNG-test-Login Test-1] INFO  tests.LaunchFlipkartPage - Launching Flipkart
+2024-10-28 19:20:11 [TestNG-test-Login Test-1] INFO  tests.LaunchFlipkartPage - On search bar clicking on Laptops
+2024-10-28 19:20:11 [TestNG-test-Login Test-1] INFO  tests.LaunchFlipkartPage - Mouse Hovering on Login Icon
+2024-10-28 19:20:14 [TestNG-test-Login Test-1] INFO  tests.LaunchFlipkartPage - Clicking on Flipkart
+2024-10-28 19:20:14 [TestNG-test-Login Test-1] INFO  tests.LaunchFlipkartPage - Updatind results in JIRA

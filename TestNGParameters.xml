@@ -1,0 +1,16 @@
+<suite name="Test Suite" verbose="1" parallel="true" thread-count="2">
+	<listeners>
+        <listener class-name="utils.RetryListener" />
+    </listeners>
+   
+    <test name="Login Test">
+     	<parameter name="url" value="https://www.amazon.in/"/>
+    	<parameter name="username" value="nandakishore.shopping@gmail.com"/>
+        <parameter name="password" value="Jan@2024"/>
+        <classes>
+            <class name="tests.LoginAmazonWithTestNGParameters"/>
+            <class name="tests.LaunchFlipkartPage"/>
+            <class name="tests.LoginAmazon"/>
+        </classes>
+    </test>
+</suite>
